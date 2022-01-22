@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     include_package_data=True,
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/lyenliang/limitcalc",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
